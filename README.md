@@ -22,28 +22,34 @@
 - **Personal Portfolio** – Showcasing my journey, skills, and achievements.
 
 ---
-# 👋 Hi, I'm Insharah Amin!
 
-🎓 I'm learning **HTML**, **CSS**, and building cool front-end projects to sharpen my web development skills.
 
 🌐 Currently working on:
 - A olx landing page clone using HTML & CSS
 - Responsive design using Bootstrap Grid
 - GitHub repo contributions
+- 
+---
 
 📚 My interests:
 - Islamic & historical books 📖
 - Arabic language learning 🗣️
 - UI/UX design inspiration 🎨
+---
 
 🔧 Technologies I'm exploring:
 - HTML5, CSS3
 - Bootstrap
 - Git & GitHub
 
+---
+## 🎨 Hobbies
 
+- 💻 Coding & Project Building
+- 👩‍🏫 Teaching and Sharing Knowledge
+- 📖 Learning new technologies
 
-
+---
 
 > “The journey of a thousand lines of code begins with a single `<div>`.” 😄
 
